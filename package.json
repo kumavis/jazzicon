@@ -10,7 +10,7 @@
   "author": "Dan Finlay",
   "license": "ISC",
   "dependencies": {
-    "color": "^0.11.1",
+    "color": "^2.0.0",
     "mersenne-twister": "^1.0.1",
     "raphael": "^2.2.0"
   },
